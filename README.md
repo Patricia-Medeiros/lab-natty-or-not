@@ -2,7 +2,7 @@
 # Rescisão do Contrato de Trabalho e Verbas Rescisórias;)
 
 ## 📒 Descrição
-E-book de 10 páginas sobre recisão do contrato de trabalho e verbas recisórias
+E-book de 10 páginas sobre rescisão do contrato de trabalho e verbas rescisórias
 
 ## 🤖 Tecnologias Utilizadas
 * IA generativa CHATGPT para pesquisa do tema. 
